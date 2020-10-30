@@ -1,0 +1,4 @@
+Graphical User Interface (GUI)
+It is a function that allows the user to communicate more easily with the computer so that the user can load programs, access files, and perform other tasks. You can 
+interact with menus and images by tapping the computer screen or doing it through the mouse, to control a specific software or hardware. There is another type of interface 
+that is called a command line interface where interaction with the computer is only possible by entering commands, they do not look like images or interaction menus.
