@@ -1,8 +1,8 @@
 "Graphical User Interface (GUI)"
-It is a function that allows the user to communicate more easily with the computer so that the user can load programs, access files, and perform other tasks. You can 
-interact with menus and images by tapping the computer screen or doing it through the mouse, to control a specific software or hardware. There is another type of interface 
-that is called a command line interface where interaction with the computer is only possible by entering commands, they do not look like images or interaction menus.
+It is a function that allows the user to communicate more easily with the computer so that the user can load programs, access files, and perform other tasks. You can interact with menus and images by tapping the computer screen or doing it through the mouse, to control a specific software or hardware. There is another type of interface that is called a command line interface where interaction with the computer is only possible by entering commands, they do not look like images or interaction menus.
 
 "Managing Memory"
 Another function of the operating system is memory management, this consists of a data store that is shared by the CPU and applications, memory which loses its capacity if there is a failure. It is for this reason that it is important that the operating system takes care of memory management, preventing it from saturating and losing data and information. 
 
+"Administering Security"
+The operating system is also in charge of managing the profiles that have been created and stored on the computer, normally it has an administrator account that gives it all the permissions you need. These permissions define what user can have accces to the computer and certain resources, each of this user will have a user name (user id) and a passsword. After entering the right user and password, the operating system check if the user is the right one and the autorization policy that the administrator gave to this user.
